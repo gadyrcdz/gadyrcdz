@@ -1,5 +1,5 @@
 # 💫 About Me:
-❄️ I’m a Software Engineering student<br>🔭 I’m currently working on different projects in my career.<br>🤝 I’m looking to gain experience before finishing my career.<br>🌱 I’m starting to learn about blockchain<br>⚡ Fun fact, I like the process of finding the bug in the code.
+❄️ I’m a Software Engineering student at Technological Institute of Costa Rica<br>🔭 I’m currently working on different projects in my career.<br>🤝 I’m looking to gain experience before finishing my career.<br>🌱 I’m starting to learn about blockchain<br>⚡ Fun fact, I like the process of finding the bug in the code.
 
 
 ## 🌐 Socials:
