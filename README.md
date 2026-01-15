@@ -4,7 +4,7 @@
 - 🎓 Computer Engineering student at Technological Institute of Costa Rica
 - 🌐 Open Source contributor focused on blockchain ecosystems (Starknet & Stellar)
 - 💻 Full-stack developer specializing in JavaScript, TypeScript, and modern frameworks
-- 🔗 Active contributor at [OnlyDust](https://app.onlydust.com/users/gadyrcdz/overview), developing blockchain solutions
+- 🔗 contributor at [OnlyDust](https://app.onlydust.com/users/gadyrcdz/overview), developing blockchain solutions
 - 🌱 Passionate about blockchain technology and decentralized applications (dApps)
 - 🔍 Love the challenge of debugging and optimizing code
 - 🚀 Looking for opportunities to collaborate on innovative projects
